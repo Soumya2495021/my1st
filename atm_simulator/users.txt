@@ -1,0 +1,2 @@
+admin,admin123,admin,10000
+common,common123,common,2000
